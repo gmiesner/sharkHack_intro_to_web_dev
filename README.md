@@ -52,7 +52,7 @@ The line below that that begins with ```<link``` is the line of code that links 
  
 <img width="372" alt="Screen Shot 2021-03-25 at 12 26 37 AM" src="https://user-images.githubusercontent.com/51331370/112423518-c506b680-8d00-11eb-980a-037a1ae21bdd.png">
 
-Here we can see the opening and closing```<body>```tags. This is where the majority of our code will go when we make our webpage today. Inside of them you can see the line of code that starts with ```<script```. This is the line of code that is linking our HTML page to our JavaScript file. JavaScript is the third and final language we will be using today. I like to think of JavaScript as the organs and flesh of our website, they are held together by the HTML, and made to look nice with CSS, but are ultimately what gives the site functionality and interactivity.
+Here we can see the opening and closing```<body>```tags. This is where the majority of our code will go when we make our webpage today. Inside of them you can see the line of code that starts with ```<script```. This is the line of code that is linking our HTML page to our JavaScript file. I like to think of JavaScript as the organs and flesh of our website, they are held together by the HTML, and made to look nice with CSS, but are ultimately what gives the site functionality and interactivity.
 
 <img width="135" alt="Screen Shot 2021-03-25 at 12 31 58 AM" src="https://user-images.githubusercontent.com/51331370/112423924-845b6d00-8d01-11eb-8498-c3ff12dc6573.png">
 
@@ -186,5 +186,23 @@ After refreshing your page should look something like this:
 
 <img width="1347" alt="Screen Shot 2021-03-25 at 2 31 05 AM" src="https://user-images.githubusercontent.com/51331370/112435004-28e5ab00-8d12-11eb-85f1-5f8e94023471.png">
 
+- Next, let's style the lists! They look a bit wonky now, but try adding the following CSS to your code: ``` ul{margin-left: 40%;text-align:left;} ol{margin-left: 40%;text-align:left;} ```
+
+This code will give the ordered and unordered list a margin of the left of 40%, and align the text left so there isn't a weird space in between the bullets or numbers and the text. 
+
+Here is what it should look like: 
+
 <img width="1140" alt="Screen Shot 2021-03-25 at 2 42 19 AM" src="https://user-images.githubusercontent.com/51331370/112436408-baa1e800-8d13-11eb-8614-31c1fede9b58.png">
 
+
+Now I will set you free to work on your own code! But I do have a few challenges for you when you're coding: 
+
+- add 2 more ```<p>``` elements with some more information on who you are and what you do 
+- try adding an ```<a>``` element inside a ```<p>``` element to link to something you talk about in your bio (school, work, your dog's twitter)
+- add another picture! 
+
+
+When you are completed, send the link to your webpage to [this](https://forms.gle/81e88PGn97ZnwtUC6) google form. (The link can be found in the URL bar where you have been looking at your webpage). 
+
+## Learn more about Web Dev 💻
+[Here](https://hackerresources.gmiesner.repl.co/) is a cool resource where you can find more places to learn this weekend, about everything under the sun, but also with a heafty web dev section! 
