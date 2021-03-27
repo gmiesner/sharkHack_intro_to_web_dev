@@ -205,4 +205,4 @@ Now I will set you free to work on your own code! But I do have a few challenges
 When you are completed, send the link to your webpage to [this](https://forms.gle/81e88PGn97ZnwtUC6) google form. (The link can be found in the URL bar where you have been looking at your webpage). 
 
 ## Learn more about Web Dev 💻
-[Here](https://hacksources.gmiesner.repl.co/) is a cool resource where you can find more places to learn this weekend, about everything under the sun, but also with a heafty web dev section! 
+[Here](https://hacksources.gmiesner.repl.co/) is a cool resource where you can find more places to learn this weekend, about everything under the sun, but also with a hefty web dev section! 
